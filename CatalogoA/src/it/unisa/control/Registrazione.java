@@ -28,6 +28,8 @@ public class Registrazione extends HttpServlet {
         super();
         // TODO Auto-generated constructor stub
     }
+    
+    //prova
 
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
